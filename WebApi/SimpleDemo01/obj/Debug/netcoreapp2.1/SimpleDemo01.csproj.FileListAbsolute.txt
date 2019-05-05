@@ -1,0 +1,15 @@
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.csproj.CoreCompileInputs.cache
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.AssemblyInfoInputs.cache
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.AssemblyInfo.cs
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.deps.json
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.runtimeconfig.json
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.runtimeconfig.dev.json
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.dll
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.pdb
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.RazorAssemblyInfo.cache
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.RazorAssemblyInfo.cs
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.RazorTargetAssemblyInfo.cache
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.dll
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.pdb
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\bin\Debug\netcoreapp2.1\SimpleDemo01.xml
+D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\WebApi\SimpleDemo01\obj\Debug\netcoreapp2.1\SimpleDemo01.csprojAssemblyReference.cache

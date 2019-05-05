@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ExecutionClient/1.0.0": {
+        "dependencies": {
+          "UtilityLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExecutionClient.dll": {}
+        }
+      },
+      "UtilityLibrary/1.0.0": {
+        "runtime": {
+          "UtilityLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExecutionClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilityLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
