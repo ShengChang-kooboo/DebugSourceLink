@@ -15,3 +15,8 @@ variables:
 steps:
 - script: dotnet build --configuration $(buildConfiguration) WebApi/SimpleDemo01/SimpleDemo01.csproj
   displayName: 'dotnet build $(buildConfiguration) WebApi/SimpleDemo01/SimpleDemo01.csproj'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'publish'
+    workingDirectory: 'WebApi/SimpleDemo01/'
