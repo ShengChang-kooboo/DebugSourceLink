@@ -1,9 +1,0 @@
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\bin\Debug\netcoreapp2.1\UtilityLibrary.deps.json
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\bin\Debug\netcoreapp2.1\UtilityLibrary.dll
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\bin\Debug\netcoreapp2.1\UtilityLibrary.pdb
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.csproj.CoreCompileInputs.cache
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.AssemblyInfoInputs.cache
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.AssemblyInfo.cs
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.dll
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.pdb
-D:\Projects\Laboratory\DotNet\DebugFeature\DebugSourceLink\UtilityLibrary\obj\Debug\netcoreapp2.1\UtilityLibrary.csprojAssemblyReference.cache
