@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace SimpleDemo01.Controllers
 {
@@ -13,6 +14,13 @@ namespace SimpleDemo01.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly IConfiguration _configuration;
+
+        public ValuesController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         /// <summary>
         /// get multiple texts
         /// </summary>
@@ -23,7 +31,9 @@ namespace SimpleDemo01.Controllers
         {
             var environmentVariableOne = Environment.GetEnvironmentVariable("Test_Env_Variable_One");
             var environmentType = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
-            return new string[] { "value1", "value2", $"environmentVariableOne: {environmentVariableOne}", $"environmentType: {environmentType}" };
+            var appSettingOne = _configuration["Logging:LogLevel:Default"];
+            var appSettingTwo = _configuration["Logging:LogLevel:System"];
+            return new string[] { $"appSettingOne: {appSettingOne}", $"appSettingTwo: {appSettingTwo}", $"environmentVariableOne: {environmentVariableOne}", $"environmentType: {environmentType}" };
         }
 
         // GET api/values/5
